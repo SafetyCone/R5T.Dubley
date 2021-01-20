@@ -1,2 +1,2 @@
 # R5T.Dubley
-A TypeDouble types library.
+A TypedDouble types library.
